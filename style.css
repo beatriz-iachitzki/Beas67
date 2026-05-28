@@ -5,9 +5,12 @@
 
 body { 
     background-color: green;
+    color: white;
 }
 .cabecalho{
     background-color: yellow;
     display: flex;
     justify-content: space-between;
+    padding: 15px 25px;
+    align-items: center;
 }
