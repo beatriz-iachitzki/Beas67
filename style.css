@@ -20,4 +20,8 @@ body {
 
 .cartao{
     width: 260px;
-    heigh:
+    heigh: 200px;
+}
+.cartao img{
+    width:80%;
+}
