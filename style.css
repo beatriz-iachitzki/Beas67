@@ -23,5 +23,10 @@ body {
     heigh: 200px;
 }
 .cartao img{
-    width:80%;
+    width: 100%;
+    main{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex: 1;
 }
